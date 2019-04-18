@@ -1,0 +1,15 @@
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\obj\Debug\netcoreapp2.0\AutomationFrameWork.csprojResolveAssemblyReference.cache
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\obj\Debug\netcoreapp2.0\AutomationFrameWork.csproj.CoreCompileInputs.cache
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\obj\Debug\netcoreapp2.0\AutomationFrameWork.AssemblyInfoInputs.cache
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\obj\Debug\netcoreapp2.0\AutomationFrameWork.AssemblyInfo.cs
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\bin\Debug\netcoreapp2.0\AutomationFrameWork.deps.json
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\bin\Debug\netcoreapp2.0\AutomationFrameWork.runtimeconfig.json
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\bin\Debug\netcoreapp2.0\AutomationFrameWork.runtimeconfig.dev.json
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\bin\Debug\netcoreapp2.0\AutomationFrameWork.dll
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\bin\Debug\netcoreapp2.0\AutomationFrameWork.pdb
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\bin\Debug\netcoreapp2.0\UIAutomationClient.dll
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\bin\Debug\netcoreapp2.0\UIAutomationTypes.dll
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\bin\Debug\netcoreapp2.0\UIAutomationProvider.dll
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\obj\Debug\netcoreapp2.0\AutomationFrameWork.csproj.CopyComplete
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\obj\Debug\netcoreapp2.0\AutomationFrameWork.dll
+c:\users\chris\source\repos\AutomationFrameWork\AutomationFrameWork\obj\Debug\netcoreapp2.0\AutomationFrameWork.pdb
